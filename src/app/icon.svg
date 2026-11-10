@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#F3F1EC"/>
+  <text x="32" y="39" fill="#202A24" font-family="Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="-1.4" text-anchor="middle">OPUS</text>
+  <path d="M18 48h28" stroke="#758C74" stroke-width="2"/>
+</svg>
